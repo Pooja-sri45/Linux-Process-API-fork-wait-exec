@@ -60,7 +60,8 @@ int main(void)
 
 
 
-##OUTPUT
+# OUTPUT:
+
 ![image](https://github.com/Pooja-sri45/Linux-Process-API-fork-wait-exec/assets/147081893/09849057-daff-4c04-9684-a502fecc6c7f)
 
 
@@ -115,7 +116,8 @@ int main() {
 
 
 
-##OUTPUT
+# OUTPUT:
+
 ![image](https://github.com/Pooja-sri45/Linux-Process-API-fork-wait-exec/assets/147081893/13710220-cb2d-4e2b-a7f2-7167fdcff333)
 
 
@@ -181,7 +183,8 @@ int main() {
 
 
 
-##OUTPUT
+# OUTPUT:
+
 ![image](https://github.com/Pooja-sri45/Linux-Process-API-fork-wait-exec/assets/147081893/9a722cf0-4e96-4786-83bd-000efd7cb0b4)
 
 
